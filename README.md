@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailalkouz94" alt="ismailalkouz94" /></a> </p>
 
-- 🔭 I’m currently working on **qalam.ai | mawdoo3.com**
+- 🔭 I’m currently working on **qalam.io | mawdoo3.com**
 
 - 🌱 I’m currently learning **newest technologies**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ismailkouz2015@gmail.com**
 
-- 📄 Know about my experiences [ismailkouz.com](ismailkouz.com)
+- 📄 Know about my experiences [https://ismailkouz.com](https://ismailkouz.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
